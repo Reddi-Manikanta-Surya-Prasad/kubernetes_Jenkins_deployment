@@ -10,7 +10,7 @@ pipeline {
 
 //     stage('Checkout Source') {
 //       steps {
-//         git 'https://github.com/praveen1994dec/kubernetes_Jenkins_deployment.git'
+//         git 'https://github.com/Reddi-Manikanta-Surya-Prasad/kubernetes_Jenkins_deployment.git'
 //       }
 //     }
         
